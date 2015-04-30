@@ -1,3 +1,4 @@
+package shape;
 public class ColorPoint extends Point {
 
 	private String color;
